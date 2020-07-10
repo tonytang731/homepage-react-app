@@ -9,7 +9,7 @@ import { Link, BrowserRouter, HashRouter } from 'react-router-dom';
 class App extends Component {
   render() {
     return (
-      <HashRouter>
+      <HashRouter basename="/">
         <div className="demo-big-content">
           <Layout>
               <Header title="Title" scroll>
