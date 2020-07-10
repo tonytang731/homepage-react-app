@@ -3,13 +3,13 @@ import './App.css';
 //import Components from React MDL
 import { Layout, Header, Drawer, Navigation, Content } from 'react-mdl';
 import Main from './Components/main.js';
-import { Link, BrowserRouter } from 'react-router-dom';
+import { Link, BrowserRouter, HashRouter } from 'react-router-dom';
 
 
 class App extends Component {
   render() {
     return (
-      <BrowserRouter>
+      <HashRouter>
         <div className="demo-big-content">
           <Layout>
               <Header title="Title" scroll>
@@ -32,7 +32,7 @@ class App extends Component {
               </Content>
           </Layout>
       </div>
-    </BrowserRouter>
+    </HashRouter>
     );
   }
 }
