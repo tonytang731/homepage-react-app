@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/github-pages-react-app/static/css/main.cfa4fc45.chunk.css",
-    "main.js": "/github-pages-react-app/static/js/main.5e041e8a.chunk.js",
-    "main.js.map": "/github-pages-react-app/static/js/main.5e041e8a.chunk.js.map",
+    "main.css": "/github-pages-react-app/static/css/main.8aebe24c.chunk.css",
+    "main.js": "/github-pages-react-app/static/js/main.fe55aa03.chunk.js",
+    "main.js.map": "/github-pages-react-app/static/js/main.fe55aa03.chunk.js.map",
     "runtime-main.js": "/github-pages-react-app/static/js/runtime-main.60790d88.js",
     "runtime-main.js.map": "/github-pages-react-app/static/js/runtime-main.60790d88.js.map",
     "static/css/2.e4346227.chunk.css": "/github-pages-react-app/static/css/2.e4346227.chunk.css",
-    "static/js/2.b535a1c5.chunk.js": "/github-pages-react-app/static/js/2.b535a1c5.chunk.js",
-    "static/js/2.b535a1c5.chunk.js.map": "/github-pages-react-app/static/js/2.b535a1c5.chunk.js.map",
+    "static/js/2.93bf7073.chunk.js": "/github-pages-react-app/static/js/2.93bf7073.chunk.js",
+    "static/js/2.93bf7073.chunk.js.map": "/github-pages-react-app/static/js/2.93bf7073.chunk.js.map",
     "index.html": "/github-pages-react-app/index.html",
-    "precache-manifest.01c10ddf1a737572addf7ddb3bdc77c2.js": "/github-pages-react-app/precache-manifest.01c10ddf1a737572addf7ddb3bdc77c2.js",
+    "precache-manifest.996831a0b96c35db933d2013e3bba28b.js": "/github-pages-react-app/precache-manifest.996831a0b96c35db933d2013e3bba28b.js",
     "service-worker.js": "/github-pages-react-app/service-worker.js",
     "static/css/2.e4346227.chunk.css.map": "/github-pages-react-app/static/css/2.e4346227.chunk.css.map",
-    "static/css/main.cfa4fc45.chunk.css.map": "/github-pages-react-app/static/css/main.cfa4fc45.chunk.css.map",
-    "static/js/2.b535a1c5.chunk.js.LICENSE.txt": "/github-pages-react-app/static/js/2.b535a1c5.chunk.js.LICENSE.txt",
+    "static/css/main.8aebe24c.chunk.css.map": "/github-pages-react-app/static/css/main.8aebe24c.chunk.css.map",
+    "static/js/2.93bf7073.chunk.js.LICENSE.txt": "/github-pages-react-app/static/js/2.93bf7073.chunk.js.LICENSE.txt",
+    "static/media/Yiwen_CV_Eng.pdf": "/github-pages-react-app/static/media/Yiwen_CV_Eng.70c2b73b.pdf",
     "static/media/face.png": "/github-pages-react-app/static/media/face.33e98c73.png"
   },
   "entrypoints": [
     "static/js/runtime-main.60790d88.js",
     "static/css/2.e4346227.chunk.css",
-    "static/js/2.b535a1c5.chunk.js",
-    "static/css/main.cfa4fc45.chunk.css",
-    "static/js/main.5e041e8a.chunk.js"
+    "static/js/2.93bf7073.chunk.js",
+    "static/css/main.8aebe24c.chunk.css",
+    "static/js/main.fe55aa03.chunk.js"
   ]
 }
