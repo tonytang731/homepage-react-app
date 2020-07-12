@@ -12,15 +12,17 @@ class App extends Component {
       <HashRouter basename="/">
         <div className="demo-big-content">
           <Layout>
-              <Header className='header_color' title="Title" scroll>
+              <Header className='header_color' title="Pages" scroll>
                   <Navigation>
+                      <Link to="/">Home</Link>
                       <Link to="/cv">Curriculum Vitae</Link>
                       <Link to="/aboutme">About Me</Link>
                       <Link to="/projects">Projects</Link>
                   </Navigation>
               </Header>
-              <Drawer title="Title">
+              <Drawer title="Pages">
                   <Navigation>
+                      <Link to="/">Home</Link>
                       <Link to="/cv">Curriculum Vitae</Link>
                       <Link to="/aboutme">About Me</Link>
                       <Link to="/projects">Projects</Link>
