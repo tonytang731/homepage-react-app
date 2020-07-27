@@ -1,5 +1,6 @@
-import React, { Component } from 'react'
-import pdf from '../pdf/Yiwen_CV_Eng.pdf'
+import React, { Component } from 'react';
+import pdf from '../pdf/Yiwen_CV_Eng.pdf';
+import pdf from '../pdf/Yiwen_CV_Chn.pdf';
 
 class CV extends Component {
     render() {
