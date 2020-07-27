@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "009a76ba5f794cbb3b73a33442ba451c",
+    "revision": "38ac732a4cce36967405ffe9f3d3f689",
     "url": "/github-pages-react-app/index.html"
   },
   {
-    "revision": "9a12d57112e2bd1282d7",
+    "revision": "f8d34a58e85e9bdf5d60",
     "url": "/github-pages-react-app/static/css/2.e4346227.chunk.css"
   },
   {
-    "revision": "293ac01bb364ec0608ce",
-    "url": "/github-pages-react-app/static/css/main.8aebe24c.chunk.css"
+    "revision": "e0508ab6120dc1ce1a05",
+    "url": "/github-pages-react-app/static/css/main.3c82e3d7.chunk.css"
   },
   {
-    "revision": "9a12d57112e2bd1282d7",
-    "url": "/github-pages-react-app/static/js/2.93bf7073.chunk.js"
+    "revision": "f8d34a58e85e9bdf5d60",
+    "url": "/github-pages-react-app/static/js/2.72294ae0.chunk.js"
   },
   {
     "revision": "e1d2b252d73a4c2bc4d6802ca4ba1aa0",
-    "url": "/github-pages-react-app/static/js/2.93bf7073.chunk.js.LICENSE.txt"
+    "url": "/github-pages-react-app/static/js/2.72294ae0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "293ac01bb364ec0608ce",
-    "url": "/github-pages-react-app/static/js/main.fe55aa03.chunk.js"
+    "revision": "e0508ab6120dc1ce1a05",
+    "url": "/github-pages-react-app/static/js/main.624241da.chunk.js"
   },
   {
     "revision": "6b86c044deb4f4deb8b7",
     "url": "/github-pages-react-app/static/js/runtime-main.60790d88.js"
+  },
+  {
+    "revision": "53bf2d9cdc8db755acd385a0c1fd4ef2",
+    "url": "/github-pages-react-app/static/media/Yiwen_CV_Chn.53bf2d9c.pdf"
   },
   {
     "revision": "70c2b73b0f20872c7fc300d5dc36dc00",
