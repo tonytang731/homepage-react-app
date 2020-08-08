@@ -36,7 +36,7 @@ class Projects extends Component {
             <CardText>
                 •	Provided multiple services that connect the users to great food in the United States, including restaurant recommendations, trip planning, and friend suggestions. <br></br>
                 •	Offered guidance for the users to select restaurants of their interest based on their current physical location. <br></br>
-                •	Learned the quality of a certain restaurant by viewing its most useful comments and reviews. Besides the functionality contained in most of the crowdsourced review apps <br></br>
+                •	Learned the quality of a certain restaurant by viewing its most useful comments and reviews. <br></br>
                 •	Introduced the idea of social media by connecting the users and recommending restaurants based on their mutual preferences and locations <br></br>
             </CardText>
             <CardActions border>
@@ -193,7 +193,7 @@ class Projects extends Component {
                 <CardText>
                     •	Provided multiple services that connect the users to great food in the United States, including restaurant recommendations, trip planning, and friend suggestions. <br></br>
                     •	Offered guidance for the users to select restaurants of their interest based on their current physical location. <br></br>
-                    •	Learned the quality of a certain restaurant by viewing its most useful comments and reviews. Besides the functionality contained in most of the crowdsourced review apps <br></br>
+                    •	Learned the quality of a certain restaurant by viewing its most useful comments and reviews. <br></br>
                     •	Introduced the idea of social media by connecting the users and recommending restaurants based on their mutual preferences and locations <br></br>
                 </CardText>
                 <CardActions border>
